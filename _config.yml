@@ -111,7 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "소극적이지만 도전하는 사람/개발자/학생"
   location         : "미국/캘리포니아 (교환 파견중)"
-  email            : "noonlulu1316@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
