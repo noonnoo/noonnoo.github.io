@@ -1,5 +1,7 @@
 ---
 title: 블로그 개시!
+excerpt: "일상글 - 블로그 개시"
+
 categories:
   - Life
 tags: 
