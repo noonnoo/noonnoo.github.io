@@ -274,3 +274,6 @@ defaults:
       author_profile: false
       read_time: false
       author_profile: false
+      comments: true
+      share: true
+      related: true
