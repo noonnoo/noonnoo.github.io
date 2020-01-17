@@ -268,6 +268,7 @@ compress_html:
 # Defaults
 defaults:
   - scope:
+      path: ""
     values:
       author_profile: false
   # _posts
