@@ -12,13 +12,15 @@ outtro:
   - excerpt: "네이버 블로그: [**이삭블로그**](https://blog.naver.com/kdy246)"
 ---
 
-<div style="margin:30px;  width: 100%; text-align: center;">
+<div style="margin:30px; width: 100%;">
   <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
   {% for post in paginator.posts %}
     {% include archive-single.html %}
   {% endfor %}
 
-  <div style="display: inline-block;">
-    {% include paginator.html %}
+  <div style="width: 100%; text-align: center;">
+    <div style="display: inline-block;">
+      {% include paginator.html %}
+    </div>
   </div>
 </div>
