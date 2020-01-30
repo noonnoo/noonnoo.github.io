@@ -273,7 +273,6 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      date: true
   # _posts
   - scope:
       path: ""
